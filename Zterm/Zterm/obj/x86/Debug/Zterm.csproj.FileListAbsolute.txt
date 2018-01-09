@@ -1,0 +1,13 @@
+c:\users\matt_t\documents\visual studio 2010\Projects\Zterm\Zterm\bin\Debug\Zterm.exe
+c:\users\matt_t\documents\visual studio 2010\Projects\Zterm\Zterm\bin\Debug\Zterm.pdb
+c:\users\matt_t\documents\visual studio 2010\Projects\Zterm\Zterm\obj\x86\Debug\Zterm.Form1.resources
+c:\users\matt_t\documents\visual studio 2010\Projects\Zterm\Zterm\obj\x86\Debug\Zterm.Properties.Resources.resources
+c:\users\matt_t\documents\visual studio 2010\Projects\Zterm\Zterm\obj\x86\Debug\Zterm.csproj.GenerateResource.Cache
+c:\users\matt_t\documents\visual studio 2010\Projects\Zterm\Zterm\obj\x86\Debug\Zterm.exe
+c:\users\matt_t\documents\visual studio 2010\Projects\Zterm\Zterm\obj\x86\Debug\Zterm.pdb
+C:\Users\Matt_T\Documents\Visual Studio 2010\Projects\Zterm\Zterm\obj\x86\Debug\Zterm.ConnectionForm.resources
+C:\Users\Matt_T\Documents\Visual Studio 2010\Projects\Zterm\Zterm\bin\Debug\Zterm.exe.config
+C:\Users\Matt_T\Documents\Visual Studio 2010\Projects\Zterm\Zterm\bin\Debug\ClientSocketControl.dll
+C:\Users\Matt_T\Documents\Visual Studio 2010\Projects\Zterm\Zterm\bin\Debug\ClientSocketControl.pdb
+C:\Users\Matt_T\Documents\Visual Studio 2010\Projects\Zterm\Zterm\obj\x86\Debug\Zterm.csprojResolveAssemblyReference.cache
+C:\Users\Matt_T\Documents\Visual Studio 2010\Projects\Zterm\Zterm\obj\x86\Debug\Zterm.About.resources

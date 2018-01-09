@@ -1,0 +1,114 @@
+
+
+
+
+
+*
+
+*r
+rv
+v
+
+BAM 1020, 82051, V6.0.0.18a
+*
+
+*
+
+*
+
+*1
+1
+
+
+BAM 1020 Settings Report
+2017-06-30 10:22:18
+
+      Firmware, 82051, V6.0.0.18a
+       Digital, 
+ Serial Number, 
+      Location, 1
+   RS-232 Baud, 9600
+  PRINTER Baud, 9600
+ ETHERNET Baud, 9600
+    COM 3 Baud, 9600
+Ethernet FlowCtrl, NONE
+   Modbus Port, RS-232
+Modbus Address, 1
+
+   LCD Timeout, 10 MIN
+Average Period, 60 MIN
+
+ Configuration, PM10 FEM
+    Cycle Mode, STANDARD
+    BAM Sample, 50
+    Beta Count, 4-MINUTE
+    Conc Units, ug/m3
+      Std Temp, 0 C
+             K, 1.000
+    Background, 0.0000
+           Usw, 0.285
+          Span, 0.805
+    Span Check, OFF
+Heater Control, OFF
+    RH Control, OFF
+      RH SetPt, 0
+     Low Power, 0
+  Dew Pt SetPt, 0
+Filter-T SetPt, 0
+  Box-T Offset, 0
+    Dew Pt Tau, 0
+Filter-T PGain, 0.000
+Filter-T IGain, 0.000
+     Box PGain, 0.000
+     Box IGain, 0.000
+Fault Polarity, NORMAL OPEN
+Reset Polarity, NORMAL OPEN
+    Time Stamp, ENDING
+   Filter Pres, 0
+    Conc Error, FULL SCALE VALUE
+    Conc Range, 1000 ug/m3
+   Conc Offset, 0 ug/m3
+  Factory Mode, OFF
+     Flow Type, ACTUAL
+ Voltage Range, 0-1.0 V
+ Current Range, 0-16 mA
+
+
+Chan, Src,     Name,      Units, Prec, FS Volts, Min Engr, Max Engr, Math
+ 1,   App   ,  PM10S    , mg/m3  , 4,    
+ 2,   App   ,  PM10     , mg/m3  , 4,    
+ 3,   App   ,  Spare5   , mg/m3  , 4,    
+ 4,   App   ,  Spare6   , mg/m3  , 4,    
+ 5,   App   ,  Qtot     , m3     , 3,    
+ 6,   App   ,  Memb     , mg/cm2 , 4,    
+ 7,   App   ,  Spare9   ,        , 4,    
+ 8,   App   ,  Spare10  ,        , 0,    
+ 9,   Sen1  ,  no       , V      , 3,    1.0,    0000.000, 0001.000, Avg
+10,   Sen2  ,  no       , V      , 3,    1.0,    0000.000, 0001.000, Avg
+11,   Sen3  ,  no       , V      , 3,    1.0,    0000.000, 0001.000, Avg
+12,   Sen4  ,  no       , V      , 3,    1.0,    0000.000, 0001.000, Avg
+13,   Digi  ,  RH       , %      , 0,    2.5,    00000002, -0000585, Avg
+14,   Digi  ,  AT       , C      , 1,    2.5,    00000002, -0000585, Avg
+15,   Digi  ,  BP       , mmHg   , 1,    2.5,    00000002, -0000585, Avg
+16,   Sen8  ,  FRH      , %      , 0,    2.5,    -0000026, 00000135, Avg
+17,   Sen9  ,  FT       , C      , 1,    2.5,    000095.8, -00051.3, Avg
+18,   Sen10 ,  BT       , C      , 1,    2.5,    000095.8, -00051.3, Avg
+19,   App   ,  FP       , mmHg   , 0,    
+20,   App   ,  AvgDP    , C      , 1,    
+21,   App   ,  Spare23  ,        , 0,    
+
+
+   Calibration, Offset,  Slope
+          Flow, 0.000,   1.000
+            AT, 0.000
+            BP, 0.000
+            FT, 0.000
+            FP, 0.000
+           FRH, 0.000
+
+
+*
+*
+*rv
+BAM 1020, 82051, V6.0.0.18a
+*
